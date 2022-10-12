@@ -44,4 +44,4 @@ if (biscuitPrice === 10) {
 
 // *********** DABLE CONDITIONALS JS ************ //
 
-console.log("this is practics my branchB");
+// console.log("this is practics my branchB");
