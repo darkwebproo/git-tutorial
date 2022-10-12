@@ -45,3 +45,14 @@ for (i = 0; i < speech.length; i++) {
 count++;
 console.log(count);
 // skfhk jhdjkfjchuee kdm jiff abcdefghijklmnpqs
+
+
+var biscuitPrice = 12;
+
+if (biscuitPrice === 10) {
+    console.log('I Will eat the biscuits');
+} else {
+    console.log('\n Khali cha is better \n');
+}
+
+// *********** DABLE CONDITIONALS JS ************ //
